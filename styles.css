@@ -7,10 +7,14 @@ h1 {
   font-size: 72px;
   text-align: center;
   position: absolute;
-  border: 4px solid red;
-  background : pink;
 }
 
 p {
 	top : 50%;
+}
+
+red {
+  border: 4px solid red;
+  background : pink;
+	
 }
