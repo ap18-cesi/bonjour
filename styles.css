@@ -7,5 +7,6 @@ h1 {
   font-size: 72px;
   text-align: center;
   position: absolute;
-  border: 4px solid blue;
+  border: 4px solid red;
+  background : pink;
 }
